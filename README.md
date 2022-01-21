@@ -19,6 +19,7 @@ Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourscho
 
 **Weitere Informationen:**
 
+
 [Repository von Seeed Studio](https://github.com/Seeed-Studio/)
 
 [Offizielles Wiki von Seeed Studio](http://wiki.seeedstudio.com/Grove-MP3_v2.0/)
